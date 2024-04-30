@@ -122,7 +122,6 @@ STATIC_URL = 'static/'
 
 STATICFILES_DIRS = [
     BASE_DIR / 'static',
-    BASE_DIR / "blog/templates/blog/static"
 ]
 
 # Default primary key field type
